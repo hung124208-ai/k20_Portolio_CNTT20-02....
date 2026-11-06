@@ -1,2 +1,2 @@
-# k20_Portolio_CNTT20-02....
-CV ca nhan mon thiet ke Wep va trien khai he thong phan mem khoa 20
+# K20_Portfolio_CNTT20-02
+CV cá nhân môn thiết kế web và triển khai hệ thống phần mềm khóa 20
